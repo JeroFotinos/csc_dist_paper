@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 12:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1156,17 +1156,12 @@ Package epstopdf Info: Source file: <images/voronoi.eps>
 (epstopdf)                    date: 2024-02-28 12:57:56
 (epstopdf)                    size: 1583313 bytes
 (epstopdf)             Output file: <images/voronoi-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 12:16:55
+(epstopdf)                    date: 2024-02-28 15:22:26
 (epstopdf)                    size: 453068 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/voronoi-eps-convert
 ed-to.pdf images/voronoi.eps>
 (epstopdf)             \includegraphics on input line 109.
-runsystem(repstopdf --outfile=images/voronoi-eps-converted-to.pdf images/vorono
-i.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <images/voronoi-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 12:17:02
-(epstopdf)                    size: 453068 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <images/voronoi-eps-converted-to.pdf, id=95, 426.59375pt x 378.41376pt>
 File: images/voronoi-eps-converted-to.pdf Graphic file (type pdf)
 <use images/voronoi-eps-converted-to.pdf>
@@ -1192,20 +1187,20 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 31.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [3] [4 <./images/voronoi-eps-converted-to.pdf>] [5]
-Underfull \vbox (badness 1533) has occurred while \output is active []
+) [3]
 
- [6]
-<images/sph1_slice3/sox2_cleaning_improved.png, id=177, 1089.8316pt x 367.8543p
+LaTeX Warning: Marginpar on page 4 moved.
+
+[4 <./images/voronoi-eps-converted-to.pdf>] [5] [6]
+<images/sph1_slice3/sox2_cleaning_improved.png, id=180, 1089.8316pt x 367.8543p
 t>
 File: images/sph1_slice3/sox2_cleaning_improved.png Graphic file (type png)
 <use images/sph1_slice3/sox2_cleaning_improved.png>
 Package pdftex.def Info: images/sph1_slice3/sox2_cleaning_improved.png  used on
  input line 276.
 (pdftex.def)             Requested size: 500.484pt x 168.92876pt.
-
-[7]
-<images/sph1_slice3/nuclei_processing_horizontal.png, id=193, 1148.3703pt x 817
+ [7]
+<images/sph1_slice3/nuclei_processing_horizontal.png, id=196, 1148.3703pt x 817
 .3737pt>
 File: images/sph1_slice3/nuclei_processing_horizontal.png Graphic file (type pn
 g)
@@ -1219,20 +1214,13 @@ Package epstopdf Info: Source file: <images/tessellation_to_csc_recognition.eps
 (epstopdf)                    size: 1889125 bytes
 (epstopdf)             Output file: <images/tessellation_to_csc_recognition-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 12:16:56
+(epstopdf)                    date: 2024-02-28 15:22:28
 (epstopdf)                    size: 777565 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/tessellation_to_csc
 _recognition-eps-converted-to.pdf images/tessellation_to_csc_recognition.eps>
 (epstopdf)             \includegraphics on input line 311.
-runsystem(repstopdf --outfile=images/tessellation_to_csc_recognition-eps-conver
-ted-to.pdf images/tessellation_to_csc_recognition.eps)...executed safely (allow
-ed).
-
-Package epstopdf Info: Result file: <images/tessellation_to_csc_recognition-eps
--converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 12:17:03
-(epstopdf)                    size: 777565 bytes.
-<images/tessellation_to_csc_recognition-eps-converted-to.pdf, id=196, 384.43625
+Package epstopdf Info: Output file is already uptodate.
+<images/tessellation_to_csc_recognition-eps-converted-to.pdf, id=199, 384.43625
 pt x 384.43625pt>
 File: images/tessellation_to_csc_recognition-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -1244,7 +1232,7 @@ o.pdf  used on input line 311.
 /nuclei_processing_horizontal.png>] [10 <./images/tessellation_to_csc_recogniti
 on-eps-converted-to.pdf>]
 <images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png, id=2
-39, 1292.9103pt x 426.393pt>
+42, 1292.9103pt x 426.393pt>
 File: images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png 
 Graphic file (type png)
 <use images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png>
@@ -1255,18 +1243,13 @@ Package epstopdf Info: Source file: <images/network.eps>
 (epstopdf)                    date: 2024-02-28 12:57:56
 (epstopdf)                    size: 4692501 bytes
 (epstopdf)             Output file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 12:17:00
+(epstopdf)                    date: 2024-02-28 15:22:31
 (epstopdf)                    size: 2190730 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/network-eps-convert
 ed-to.pdf images/network.eps>
 (epstopdf)             \includegraphics on input line 344.
-runsystem(repstopdf --outfile=images/network-eps-converted-to.pdf images/networ
-k.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 12:17:06
-(epstopdf)                    size: 2190730 bytes.
-<images/network-eps-converted-to.pdf, id=243, 1792.6975pt x 1778.645pt>
+Package epstopdf Info: Output file is already uptodate.
+<images/network-eps-converted-to.pdf, id=246, 1792.6975pt x 1778.645pt>
 File: images/network-eps-converted-to.pdf Graphic file (type pdf)
 <use images/network-eps-converted-to.pdf>
 Package pdftex.def Info: images/network-eps-converted-to.pdf  used on input lin
@@ -1288,7 +1271,7 @@ Overfull \hbox (5.22853pt too wide) in paragraph at lines 368--368
  []
 
 [14]
-<images/github-mark.pdf, id=308, 73.77562pt x 72.27pt>
+<images/github-mark.pdf, id=311, 73.77562pt x 72.27pt>
 File: images/github-mark.pdf Graphic file (type pdf)
 <use images/github-mark.pdf>
 Package pdftex.def Info: images/github-mark.pdf  used on input line 377.
@@ -1419,21 +1402,31 @@ Overfull \hbox (5.0pt too wide) detected at line 23
 
 
 Overfull \hbox (5.0pt too wide) detected at line 24
- []\T1/ptm/m/n/10 7
+ []\T1/ptm/m/n/10 4
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 25
+ []\T1/ptm/m/n/10 5
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 26
  []\T1/ptm/m/n/10 7
  []
 
 
-Overfull \hbox (10.0pt too wide) detected at line 26
+Overfull \hbox (5.0pt too wide) detected at line 27
+ []\T1/ptm/m/n/10 7
+ []
+
+
+Overfull \hbox (10.0pt too wide) detected at line 28
  []\T1/ptm/m/n/10 14
  []
 
 
-Overfull \hbox (10.0pt too wide) detected at line 27
+Overfull \hbox (10.0pt too wide) detected at line 29
  []\T1/ptm/m/n/10 14
  []
 
@@ -1445,14 +1438,14 @@ Overfull \hbox (10.0pt too wide) detected at line 27
 AED: lastpage setting LastPage
 [15 <./images/github-mark.pdf>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BCB6473C6CA862BFEDC1A2F9D89B312A;204.
+(rerunfilecheck)             Checksum: B69AFB8AC05D155D967987291F50DA73;204.
  ) 
 Here is how much of TeX's memory you used:
- 40219 strings out of 478287
- 827524 string characters out of 5849289
- 1203566 words of memory out of 5000000
- 57288 multiletter control sequences out of 15000+600000
- 561486 words of font info for 407 fonts, out of 8000000 for 9000
+ 40241 strings out of 478287
+ 828030 string characters out of 5849289
+ 1211789 words of memory out of 5000000
+ 57308 multiletter control sequences out of 15000+600000
+ 561391 words of font info for 407 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,94p,3425b,1110s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1466,10 +1459,10 @@ share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on main.pdf (15 pages, 4806239 bytes).
+Output written on main.pdf (15 pages, 4808507 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 364 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
+ 91 named destinations out of 1000 (max. 500000)
  106048 words of extra memory for PDF output out of 106986 (max. 10000000)
 
