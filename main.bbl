@@ -1,0 +1,278 @@
+\begin{thebibliography}{10}
+\urlstyle{rm}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI: }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Al-Hajj}
+\bibinfo{author}{Al-Hajj, M.}, \bibinfo{author}{Wicha, M.~S.},
+  \bibinfo{author}{Benito-Hernandez, A.}, \bibinfo{author}{Morrison, S.~J.} \&
+  \bibinfo{author}{Clarke, M.~F.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Prospective identification of
+  tumorigenic breast cancer cells}}.
+\newblock {\emph{\JournalTitle{Proc.Nat.Ac.Sc.}}}
+  \textbf{\bibinfo{volume}{100}}, \bibinfo{pages}{3983--3988}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Kakarala}
+\bibinfo{author}{Kakarala, M.} \& \bibinfo{author}{Wicha, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Implications of the cancer
+  stem-cell hypothesis for breast cancer prevention and therapy}}.
+\newblock {\emph{\JournalTitle{J. Clin. Oncol.}}}
+  \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{2813--2820},
+  \doiprefix\url{10.1200/JCO.2008.16.3931} (\bibinfo{year}{2008}).
+
+\bibitem{Dontu}
+\bibinfo{author}{Dontu, G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{In vitro propagation and
+  transcriptional profiling of human mammary stem/progenitor cells}}.
+\newblock {\emph{\JournalTitle{Genes Dev.}}} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{1253--1270}, \doiprefix\url{10.1101/gad.1061803}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Ehmsen}
+\bibinfo{author}{Ehmsen, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Increased cholesterol biosynthesis
+  is a key characteristic of breast cancer stem cells influencing patient
+  outcome}}.
+\newblock {\emph{\JournalTitle{Cell Rep.}}} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{3927--3938} (\bibinfo{year}{2019}).
+
+\bibitem{Pastrana}
+\bibinfo{author}{Pastrana~E, D.~F., Silva-Vargas~V}.
+\newblock \bibinfo{journal}{\bibinfo{title}{Eyes wide open: a critical review
+  of sphere-formation as an assay for stem cells}}.
+\newblock {\emph{\JournalTitle{Cell Stem Cell}}} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{486--498}, \doiprefix\url{10.1016/j.stem.2011.04.007.}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Kessel}
+\bibinfo{author}{Kessel~SL, C.~L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A high-throughput image cytometry
+  method for the formation, morphometric, and viability analysis of
+  drug-treated mammospheres}}.
+\newblock {\emph{\JournalTitle{SLAS Discov.}}} \textbf{\bibinfo{volume}{25}},
+  \bibinfo{pages}{723--733}, \doiprefix\url{10.1177/2472555220922817}
+  (\bibinfo{year}{2020}).
+
+\bibitem{laporta}
+\bibinfo{author}{La~Porta, C.~A.} \& \bibinfo{author}{Zapperi, S.}
+\newblock \emph{\bibinfo{title}{The physics of cancer}}
+  (\bibinfo{publisher}{Cambridge University Press}, \bibinfo{year}{2017}).
+
+\bibitem{bull2022hallmarks}
+\bibinfo{author}{Bull, J.~A.} \& \bibinfo{author}{Byrne, H.~M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The hallmarks of mathematical
+  oncology}}.
+\newblock {\emph{\JournalTitle{Proceedings of the IEEE}}}
+  \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{523--540}
+  (\bibinfo{year}{2022}).
+
+\bibitem{Vieira}
+\bibinfo{author}{Vieira~LC, V.~D., Costa~RS}.
+\newblock \bibinfo{journal}{\bibinfo{title}{An overview of mathematical
+  modelling in cancer research}}.
+\newblock {\emph{\JournalTitle{Fractal and Fractional}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{595},
+  \doiprefix\url{10.3390/fractalfract7080595} (\bibinfo{year}{2023}).
+
+\bibitem{benitez2019}
+\bibinfo{author}{Ben{\'i}tez, L.}, \bibinfo{author}{Barberis, L.} \&
+  \bibinfo{author}{Condat, C.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Modeling tumorspheres reveals
+  cancer stem cell niche building and plasticity}}.
+\newblock {\emph{\JournalTitle{Physica A}}} \textbf{\bibinfo{volume}{533}},
+  \bibinfo{pages}{121906}, \doiprefix\url{10.1016/j.physa.2019.121906}
+  (\bibinfo{year}{2019}).
+
+\bibitem{barberis2021diff}
+\bibinfo{author}{Barberis, L.~M.}, \bibinfo{author}{Benitez, L.} \&
+  \bibinfo{author}{Condat, C.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Elucidating the {{Role Played}} by
+  {{Cancer Stem Cells}} in {{Cancer Growth}}}}.
+\newblock {\emph{\JournalTitle{MMSB}}} \textbf{\bibinfo{volume}{1}},
+  \bibinfo{pages}{48--54} (\bibinfo{year}{2021}).
+
+\bibitem{benitez2021}
+\bibinfo{author}{Ben{\'i}tez, L.}, \bibinfo{author}{Barberis, L.},
+  \bibinfo{author}{Vell{\'o}n, L.} \& \bibinfo{author}{Condat, C.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Understanding the influence of
+  substrate when growing tumorspheres}}.
+\newblock {\emph{\JournalTitle{BMC Cancer}}} \textbf{\bibinfo{volume}{21}},
+  \bibinfo{pages}{276}, \doiprefix\url{10.1186/s12885-021-07918-1}
+  (\bibinfo{year}{2021}).
+
+\bibitem{fotinos23}
+\bibinfo{author}{Fotin{\'o}s, J.}, \bibinfo{author}{Barberis, L.} \&
+  \bibinfo{author}{Condat, C.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Effects of a differentiating
+  therapy on cancer-stem-cell-driven tumors}}.
+\newblock {\emph{\JournalTitle{Journal of Theoretical Biology}}}
+  \textbf{\bibinfo{volume}{572}}, \bibinfo{pages}{111563},
+  \doiprefix\url{10.1016/j.jtbi.2023.111563} (\bibinfo{year}{2023}).
+
+\bibitem{Condat2006}
+\bibinfo{author}{Condat, C.~A.} \& \bibinfo{author}{Menchon, S.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Ontogenetic growth of multicellular
+  tumor spheroids}}.
+\newblock {\emph{\JournalTitle{Physica A}}} \textbf{\bibinfo{volume}{371}},
+  \bibinfo{pages}{76--79}, \doiprefix\url{10.1016/j.physa.2006.04.082}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Delsanto2008}
+\bibinfo{author}{Delsanto, P.~P.}, \bibinfo{author}{Condat, C.~A.},
+  \bibinfo{author}{Pugno, N.}, \bibinfo{author}{Gliozzi, A.~S.} \&
+  \bibinfo{author}{Griffa, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A multilevel approach to cancer
+  growth modeling.}}
+\newblock {\emph{\JournalTitle{Journal of Theoretical Biology}}}
+  \textbf{\bibinfo{volume}{250}}, \bibinfo{pages}{16--24},
+  \doiprefix\url{10.1016/j.jtbi.2007.09.023} (\bibinfo{year}{2008}).
+
+\bibitem{Menchon2011}
+\bibinfo{author}{Menchon, S.~A.} \& \bibinfo{author}{Condat, C.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Quiescent cells: A natural way to
+  resist chemotherapy}}.
+\newblock {\emph{\JournalTitle{Physica A}}} \textbf{\bibinfo{volume}{390}},
+  \bibinfo{pages}{3354–3361.}, \doiprefix\url{10.1016/j.physa.2011.05.009}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Barberis2015}
+\bibinfo{author}{Barberis, L.}, \bibinfo{author}{Pasquale, M.~A.} \&
+  \bibinfo{author}{Condat, C.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Joint fitting reveals hidden
+  interactions in tumor growth.}}
+\newblock {\emph{\JournalTitle{J. Theor. Biol.}}}
+  \textbf{\bibinfo{volume}{365C}}, \bibinfo{pages}{420--432},
+  \doiprefix\url{10.1016/j.jtbi.2014.10.038} (\bibinfo{year}{2015}).
+
+\bibitem{barberis2021percolation}
+\bibinfo{author}{Barberis, L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Radial percolation reveals that
+  {{Cancer Stem Cells}} are trapped in the core of colonies}}.
+\newblock {\emph{\JournalTitle{Papers in Physics}}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{130002--130002},
+  \doiprefix\url{10.4279/pip.130002} (\bibinfo{year}{2021}).
+
+\bibitem{chen2016}
+\bibinfo{author}{Chen, Y.~C.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{High-throughput single-cell derived
+  sphere formation for cancer stem-like cell identification and analysis}}.
+\newblock {\emph{\JournalTitle{Scientific Reports}}}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{1--12},
+  \doiprefix\url{10.1038/srep27301} (\bibinfo{year}{2016}).
+
+\bibitem{wang2016}
+\bibinfo{author}{Wang, J.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A novel method to limit breast
+  cancer stem cells in states of quiescence, proliferation or differentiation:
+  {{Use}} of gel stress in combination with stem cell growth factors}}.
+\newblock {\emph{\JournalTitle{Oncology Letters}}}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{1355--1360},
+  \doiprefix\url{10.3892/ol.2016.4757} (\bibinfo{year}{2016}).
+
+\bibitem{Leis}
+\bibinfo{author}{Leis, O.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Sox2 expression in breast tumours
+  and activation in breast cancer stem cells}}.
+\newblock {\emph{\JournalTitle{Oncogene}}} \textbf{\bibinfo{volume}{31}},
+  \bibinfo{pages}{1354--1365} (\bibinfo{year}{2012}).
+
+\bibitem{Marks2024}
+\bibinfo{author}{Marks, M.~P.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Role of
+  hydroxymethylglutharyl-coenzyme a reductase in the induction of stem-like
+  states in breast cancer}}.
+\newblock {\emph{\JournalTitle{Journal of Cancer Research and Clinical
+  Oncology}}}  (\bibinfo{year}{2024}).
+
+\bibitem{Brady2019}
+\bibinfo{author}{Brady, R.} \& \bibinfo{author}{Enderling, H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Mathematical models of cancer: When
+  to predict novel therapies, and when not to}}.
+\newblock {\emph{\JournalTitle{Bull Math Biol}}} \bibinfo{pages}{3722--3731},
+  \doiprefix\url{10.1007/s11538-019-00640-x} (\bibinfo{year}{2019}).
+
+\bibitem{Zanoni2020}
+\bibinfo{author}{Zanoni, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Modeling neoplastic disease with
+  spheroids and organoids}}.
+\newblock {\emph{\JournalTitle{J Hematol Oncol}}}
+  \doiprefix\url{10.1186/s13045-020-00931-0} (\bibinfo{year}{2020}).
+
+\bibitem{Rolver2019}
+\bibinfo{author}{Rolver, M.~G.}, \bibinfo{author}{Elingaard-Larsen, L.~O.} \&
+  \bibinfo{author}{Pedersen, S.~F.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Assessing cell viability and death
+  in 3d spheroid cultures of cancer cells}}.
+\newblock {\emph{\JournalTitle{J Vis Exp}}} \doiprefix\url{10.3791/59714}
+  (\bibinfo{year}{2019}).
+
+\bibitem{Stines2013}
+\bibinfo{author}{Stine, R.~R.} \& \bibinfo{author}{Matunis, E.~L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Stem cell competition: finding
+  balance in the niche}}.
+\newblock {\emph{\JournalTitle{Trends Cell Biol}}} \bibinfo{pages}{357--364},
+  \doiprefix\url{10.1016/j.tcb.2013.03.001} (\bibinfo{year}{2013}).
+
+\bibitem{Johnston2009}
+\bibinfo{author}{Johnston, L.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Competitive interactions between
+  cells: death, growth, and geography}}.
+\newblock {\emph{\JournalTitle{Science}}} \bibinfo{pages}{1679--1682},
+  \doiprefix\url{10.1126/science.1163862} (\bibinfo{year}{2009}).
+
+\bibitem{Derks2023}
+\bibinfo{author}{Derks, L. L.~M.} \& \bibinfo{author}{van Boxtel, R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Stem cell mutations, associated
+  cancer risk, and consequences for regenerative medicine}}.
+\newblock {\emph{\JournalTitle{Cell Stem Cell}}} \bibinfo{pages}{1421--1433},
+  \doiprefix\url{10.1016/j.stem.2023.09.008} (\bibinfo{year}{2023}).
+
+\bibitem{Fisher2020}
+\bibinfo{author}{Fisher, M.~F.} \& \bibinfo{author}{Rao, S.~S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Three-dimensional culture models to
+  study drug resistance in breast cancer}}.
+\newblock {\emph{\JournalTitle{Biotechnol Bioeng}}}
+  \bibinfo{pages}{2262--2278}, \doiprefix\url{10.1002/bit.27356}
+  (\bibinfo{year}{2020}).
+
+\bibitem{Olive1994}
+\bibinfo{author}{Olive, P.~L.} \& \bibinfo{author}{Durand, R.~E.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Drug and radiation resistance in
+  spheroids: cell contact and kinetics}}.
+\newblock {\emph{\JournalTitle{Cancer Metastasis Rev}}}
+  \bibinfo{pages}{121--138}, \doiprefix\url{10.1007/BF00689632}
+  (\bibinfo{year}{1994}).
+
+\bibitem{schmidt2018}
+\bibinfo{author}{Schmidt, U.}, \bibinfo{author}{Weigert, M.},
+  \bibinfo{author}{Broaddus, C.} \& \bibinfo{author}{Myers, G.}
+\newblock \bibinfo{title}{Cell detection with star-convex polygons}.
+\newblock In \emph{\bibinfo{booktitle}{Medical Image Computing and Computer
+  Assisted Intervention--MICCAI 2018: 21st International Conference, Granada,
+  Spain, September 16-20, 2018, Proceedings, Part II 11}},
+  \bibinfo{pages}{265--273} (\bibinfo{organization}{Springer},
+  \bibinfo{year}{2018}).
+
+\bibitem{SciPyProceedings_11}
+\bibinfo{author}{Hagberg, A.~A.}, \bibinfo{author}{Schult, D.~A.} \&
+  \bibinfo{author}{Swart, P.~J.}
+\newblock \bibinfo{title}{Exploring network structure, dynamics, and function
+  using networkx}.
+\newblock In \bibinfo{editor}{Varoquaux, G.}, \bibinfo{editor}{Vaught, T.} \&
+  \bibinfo{editor}{Millman, J.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of
+  the 7th Python in Science Conference}}, \bibinfo{pages}{11 -- 15}
+  (\bibinfo{address}{Pasadena, CA USA}, \bibinfo{year}{2008}).
+
+\bibitem{seabold2010statsmodels}
+\bibinfo{author}{Seabold, S.} \& \bibinfo{author}{Perktold, J.}
+\newblock \bibinfo{title}{statsmodels: Econometric and statistical modeling
+  with python}.
+\newblock In \emph{\bibinfo{booktitle}{9th Python in Science Conference}}
+  (\bibinfo{year}{2010}).
+
+\end{thebibliography}
