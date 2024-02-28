@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 10:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1156,7 +1156,7 @@ Package epstopdf Info: Source file: <images/voronoi.eps>
 (epstopdf)                    date: 2024-02-28 12:57:56
 (epstopdf)                    size: 1583313 bytes
 (epstopdf)             Output file: <images/voronoi-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 10:14:30
+(epstopdf)                    date: 2024-02-28 12:16:55
 (epstopdf)                    size: 453068 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/voronoi-eps-convert
 ed-to.pdf images/voronoi.eps>
@@ -1165,7 +1165,7 @@ runsystem(repstopdf --outfile=images/voronoi-eps-converted-to.pdf images/vorono
 i.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <images/voronoi-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 10:14:37
+(epstopdf)                    date: 2024-02-28 12:17:02
 (epstopdf)                    size: 453068 bytes.
 <images/voronoi-eps-converted-to.pdf, id=95, 426.59375pt x 378.41376pt>
 File: images/voronoi-eps-converted-to.pdf Graphic file (type pdf)
@@ -1219,7 +1219,7 @@ Package epstopdf Info: Source file: <images/tessellation_to_csc_recognition.eps
 (epstopdf)                    size: 1889125 bytes
 (epstopdf)             Output file: <images/tessellation_to_csc_recognition-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 10:14:31
+(epstopdf)                    date: 2024-02-28 12:16:56
 (epstopdf)                    size: 777565 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/tessellation_to_csc
 _recognition-eps-converted-to.pdf images/tessellation_to_csc_recognition.eps>
@@ -1230,7 +1230,7 @@ ed).
 
 Package epstopdf Info: Result file: <images/tessellation_to_csc_recognition-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 10:14:38
+(epstopdf)                    date: 2024-02-28 12:17:03
 (epstopdf)                    size: 777565 bytes.
 <images/tessellation_to_csc_recognition-eps-converted-to.pdf, id=196, 384.43625
 pt x 384.43625pt>
@@ -1255,7 +1255,7 @@ Package epstopdf Info: Source file: <images/network.eps>
 (epstopdf)                    date: 2024-02-28 12:57:56
 (epstopdf)                    size: 4692501 bytes
 (epstopdf)             Output file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 10:14:35
+(epstopdf)                    date: 2024-02-28 12:17:00
 (epstopdf)                    size: 2190730 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/network-eps-convert
 ed-to.pdf images/network.eps>
@@ -1264,7 +1264,7 @@ runsystem(repstopdf --outfile=images/network-eps-converted-to.pdf images/networ
 k.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 10:14:42
+(epstopdf)                    date: 2024-02-28 12:17:06
 (epstopdf)                    size: 2190730 bytes.
 <images/network-eps-converted-to.pdf, id=243, 1792.6975pt x 1778.645pt>
 File: images/network-eps-converted-to.pdf Graphic file (type pdf)
@@ -1302,19 +1302,157 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pcr' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+ (./main.tdo
+Overfull \hbox (5.0pt too wide) detected at line 1
+ []\T1/ptm/m/n/10 1
+ []
 
 
+Overfull \hbox (5.0pt too wide) detected at line 2
+ []\T1/ptm/m/n/10 1
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 3
+ []\T1/ptm/m/n/10 1
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 4
+ []\T1/ptm/m/n/10 1
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 5
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 6
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 7
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 8
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 9
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 10
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 11
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 12
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 13
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 14
+ []\T1/ptm/m/n/10 2
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 15
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 16
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 17
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 18
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 19
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 20
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 21
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 22
+ []\T1/ptm/m/n/10 3
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 23
+ []\T1/ptm/m/n/10 4
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 24
+ []\T1/ptm/m/n/10 7
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 25
+ []\T1/ptm/m/n/10 7
+ []
+
+
+Overfull \hbox (10.0pt too wide) detected at line 26
+ []\T1/ptm/m/n/10 14
+ []
+
+
+Overfull \hbox (10.0pt too wide) detected at line 27
+ []\T1/ptm/m/n/10 14
+ []
+
+)
+\tf@tdo=\write5
+\openout5 = `main.tdo'.
+
+ 
 AED: lastpage setting LastPage
 [15 <./images/github-mark.pdf>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: BCB6473C6CA862BFEDC1A2F9D89B312A;204.
  ) 
 Here is how much of TeX's memory you used:
- 40199 strings out of 478287
- 827308 string characters out of 5849289
- 1205555 words of memory out of 5000000
- 57283 multiletter control sequences out of 15000+600000
- 560784 words of font info for 399 fonts, out of 8000000 for 9000
+ 40219 strings out of 478287
+ 827524 string characters out of 5849289
+ 1203566 words of memory out of 5000000
+ 57288 multiletter control sequences out of 15000+600000
+ 561486 words of font info for 407 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,94p,3425b,1110s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1328,10 +1466,10 @@ share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on main.pdf (15 pages, 4800335 bytes).
+Output written on main.pdf (15 pages, 4806239 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
- 325 compressed objects within 4 object streams
+ 425 PDF objects out of 1000 (max. 8388607)
+ 364 compressed objects within 4 object streams
  89 named destinations out of 1000 (max. 500000)
  106048 words of extra memory for PDF output out of 106986 (max. 10000000)
 
