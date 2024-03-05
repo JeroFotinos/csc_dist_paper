@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  5 MAR 2024 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,24 +910,24 @@ File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -989,7 +989,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 57.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1001,9 +1001,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count361
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1011,19 +1011,19 @@ LaTeX Info: Redefining \nameref on input line 52.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 52.
-LaTeX Info: Redefining \microtypecontext on input line 52.
-Package microtype Info: Applying patch `item' on input line 52.
-Package microtype Info: Applying patch `toc' on input line 52.
-Package microtype Info: Applying patch `eqnum' on input line 52.
-Package microtype Info: Applying patch `footnote' on input line 52.
+(lastpage)             ! on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 57.
+Package microtype Info: Applying patch `item' on input line 57.
+Package microtype Info: Applying patch `toc' on input line 57.
+Package microtype Info: Applying patch `eqnum' on input line 57.
+Package microtype Info: Applying patch `footnote' on input line 57.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 52.
+LaTeX Info: Redefining \showhyphens on input line 57.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1037,9 +1037,9 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 52.
+or `english'. on input line 57.
 \c@lstlisting=\count362
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 56
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 61
 .
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
@@ -1048,8 +1048,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 5
-6.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 6
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
@@ -1059,7 +1059,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 56.
+ 61.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -1069,19 +1069,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 56.
+ 61.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 56.
+ 61.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 56.
+ 61.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
@@ -1092,362 +1092,150 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
-6.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 62.
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-[1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
+<images/voronoi.pdf, id=55, 569.055pt x 483.6971pt>
+File: images/voronoi.pdf Graphic file (type pdf)
+<use images/voronoi.pdf>
+Package pdftex.def Info: images/voronoi.pdf  used on input line 102.
+(pdftex.def)             Requested size: 500.484pt x 425.42596pt.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 95.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 107.
+ [2]
+Underfull \vbox (badness 3179) has occurred while \output is active []
 
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-[2]
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-Package epstopdf Info: Source file: <images/voronoi.eps>
-(epstopdf)                    date: 2024-02-28 12:57:56
-(epstopdf)                    size: 1583313 bytes
-(epstopdf)             Output file: <images/voronoi-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 15:22:26
-(epstopdf)                    size: 453068 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/voronoi-eps-convert
-ed-to.pdf images/voronoi.eps>
-(epstopdf)             \includegraphics on input line 109.
-Package epstopdf Info: Output file is already uptodate.
-<images/voronoi-eps-converted-to.pdf, id=95, 426.59375pt x 378.41376pt>
-File: images/voronoi-eps-converted-to.pdf Graphic file (type pdf)
-<use images/voronoi-eps-converted-to.pdf>
-Package pdftex.def Info: images/voronoi-eps-converted-to.pdf  used on input lin
-e 109.
-(pdftex.def)             Requested size: 500.484pt x 443.98952pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
+ [3 <./images/voronoi.pdf>]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-31.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+38.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [3]
+)
+Package epstopdf Info: Source file: <images/network.eps>
+(epstopdf)                    date: 2024-03-05 12:47:02
+(epstopdf)                    size: 4692501 bytes
+(epstopdf)             Output file: <images/network-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-03-05 10:03:43
+(epstopdf)                    size: 2190730 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/network-eps-convert
+ed-to.pdf images/network.eps>
+(epstopdf)             \includegraphics on input line 174.
+runsystem(repstopdf --outfile=images/network-eps-converted-to.pdf images/networ
+k.eps)...executed safely (allowed).
 
-LaTeX Warning: Marginpar on page 4 moved.
+Package epstopdf Info: Result file: <images/network-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-03-05 10:03:49
+(epstopdf)                    size: 2190730 bytes.
+<images/network-eps-converted-to.pdf, id=136, 1792.6975pt x 1778.645pt>
+File: images/network-eps-converted-to.pdf Graphic file (type pdf)
+<use images/network-eps-converted-to.pdf>
+Package pdftex.def Info: images/network-eps-converted-to.pdf  used on input lin
+e 174.
+(pdftex.def)             Requested size: 500.484pt x 496.55165pt.
 
-[4 <./images/voronoi-eps-converted-to.pdf>] [5] [6]
-<images/sph1_slice3/sox2_cleaning_improved.png, id=180, 1089.8316pt x 367.8543p
-t>
-File: images/sph1_slice3/sox2_cleaning_improved.png Graphic file (type png)
-<use images/sph1_slice3/sox2_cleaning_improved.png>
-Package pdftex.def Info: images/sph1_slice3/sox2_cleaning_improved.png  used on
- input line 276.
+[4]
+Underfull \vbox (badness 4132) has occurred while \output is active []
+
+ [5 <./images/network-eps-converted-to.pdf>] [6] [7]
+<images/sox2_cleaning_improved.png, id=197, 1089.8316pt x 367.8543pt>
+File: images/sox2_cleaning_improved.png Graphic file (type png)
+<use images/sox2_cleaning_improved.png>
+Package pdftex.def Info: images/sox2_cleaning_improved.png  used on input line 
+271.
 (pdftex.def)             Requested size: 500.484pt x 168.92876pt.
- [7]
-<images/sph1_slice3/nuclei_processing_horizontal.png, id=196, 1148.3703pt x 817
-.3737pt>
-File: images/sph1_slice3/nuclei_processing_horizontal.png Graphic file (type pn
-g)
-<use images/sph1_slice3/nuclei_processing_horizontal.png>
-Package pdftex.def Info: images/sph1_slice3/nuclei_processing_horizontal.png  u
-sed on input line 299.
+ [8 <./images/sox2_cleaning_improved.png>]
+<images/nuclei_processing_horizontal.png, id=214, 1148.3703pt x 817.3737pt>
+File: images/nuclei_processing_horizontal.png Graphic file (type png)
+<use images/nuclei_processing_horizontal.png>
+Package pdftex.def Info: images/nuclei_processing_horizontal.png  used on input
+ line 294.
 (pdftex.def)             Requested size: 500.484pt x 356.22818pt.
 Package epstopdf Info: Source file: <images/tessellation_to_csc_recognition.eps
 >
-(epstopdf)                    date: 2024-02-28 12:57:56
+(epstopdf)                    date: 2024-03-05 12:47:02
 (epstopdf)                    size: 1889125 bytes
 (epstopdf)             Output file: <images/tessellation_to_csc_recognition-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 15:22:28
+(epstopdf)                    date: 2024-03-05 10:03:45
 (epstopdf)                    size: 777565 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/tessellation_to_csc
 _recognition-eps-converted-to.pdf images/tessellation_to_csc_recognition.eps>
-(epstopdf)             \includegraphics on input line 311.
-Package epstopdf Info: Output file is already uptodate.
-<images/tessellation_to_csc_recognition-eps-converted-to.pdf, id=199, 384.43625
+(epstopdf)             \includegraphics on input line 306.
+runsystem(repstopdf --outfile=images/tessellation_to_csc_recognition-eps-conver
+ted-to.pdf images/tessellation_to_csc_recognition.eps)...executed safely (allow
+ed).
+
+Package epstopdf Info: Result file: <images/tessellation_to_csc_recognition-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2024-03-05 10:03:50
+(epstopdf)                    size: 777565 bytes.
+<images/tessellation_to_csc_recognition-eps-converted-to.pdf, id=217, 384.43625
 pt x 384.43625pt>
 File: images/tessellation_to_csc_recognition-eps-converted-to.pdf Graphic file 
 (type pdf)
 <use images/tessellation_to_csc_recognition-eps-converted-to.pdf>
 Package pdftex.def Info: images/tessellation_to_csc_recognition-eps-converted-t
-o.pdf  used on input line 311.
+o.pdf  used on input line 306.
 (pdftex.def)             Requested size: 500.484pt x 500.51791pt.
- [8 <./images/sph1_slice3/sox2_cleaning_improved.png>] [9 <./images/sph1_slice3
-/nuclei_processing_horizontal.png>] [10 <./images/tessellation_to_csc_recogniti
-on-eps-converted-to.pdf>]
-<images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png, id=2
-42, 1292.9103pt x 426.393pt>
-File: images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png 
-Graphic file (type png)
-<use images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png>
-Package pdftex.def Info: images/sph1_slice3/histogram_GMM_clustering_cutting_ta
-ils_in_sph_NEW.png  used on input line 333.
+<images/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png, id=227, 1292.910
+3pt x 426.393pt>
+File: images/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png Graphic file
+ (type png)
+<use images/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png>
+Package pdftex.def Info: images/histogram_GMM_clustering_cutting_tails_in_sph_N
+EW.png  used on input line 328.
 (pdftex.def)             Requested size: 500.484pt x 165.04991pt.
-Package epstopdf Info: Source file: <images/network.eps>
-(epstopdf)                    date: 2024-02-28 12:57:56
-(epstopdf)                    size: 4692501 bytes
-(epstopdf)             Output file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-28 15:22:31
-(epstopdf)                    size: 2190730 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/network-eps-convert
-ed-to.pdf images/network.eps>
-(epstopdf)             \includegraphics on input line 344.
-Package epstopdf Info: Output file is already uptodate.
-<images/network-eps-converted-to.pdf, id=246, 1792.6975pt x 1778.645pt>
-File: images/network-eps-converted-to.pdf Graphic file (type pdf)
-<use images/network-eps-converted-to.pdf>
-Package pdftex.def Info: images/network-eps-converted-to.pdf  used on input lin
-e 344.
-(pdftex.def)             Requested size: 500.484pt x 496.55165pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11 <./images/sph1_slice3/histogram_GMM_clustering_cutting_tails_in_sph_NEW.png
->] [12 <./images/network-eps-converted-to.pdf>] (./main.bbl [13])
-Overfull \hbox (5.22853pt too wide) in paragraph at lines 368--368
-[][][]\T1/ptm/m/n/5 (-20) FINANCIAMIEnTo 
- []
-
-
-Overfull \hbox (5.22853pt too wide) in paragraph at lines 368--368
-[][][]\T1/ptm/m/n/5 (-20) FINANCIAMIEnTo 
- []
-
-[14]
-<images/github-mark.pdf, id=311, 73.77562pt x 72.27pt>
+ [9] [10 <./images/nuclei_processing_horizontal.png>] [11 <./images/tessellatio
+n_to_csc_recognition-eps-converted-to.pdf>] (./main.bbl [12 <./images/histogram
+_GMM_clustering_cutting_tails_in_sph_NEW.png>] [13])
+<images/github-mark.pdf, id=310, 73.77562pt x 72.27pt>
 File: images/github-mark.pdf Graphic file (type pdf)
 <use images/github-mark.pdf>
-Package pdftex.def Info: images/github-mark.pdf  used on input line 377.
+Package pdftex.def Info: images/github-mark.pdf  used on input line 369.
 (pdftex.def)             Requested size: 10.0pt x 9.79572pt.
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 37
-7.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 36
+9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pcr' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (./main.tdo
-Overfull \hbox (5.0pt too wide) detected at line 1
- []\T1/ptm/m/n/10 1
- []
 
 
-Overfull \hbox (5.0pt too wide) detected at line 2
- []\T1/ptm/m/n/10 1
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 3
- []\T1/ptm/m/n/10 1
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 4
- []\T1/ptm/m/n/10 1
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 5
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 6
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 7
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 8
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 9
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 10
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 11
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 12
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 13
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 14
- []\T1/ptm/m/n/10 2
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 15
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 16
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 17
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 18
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 19
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 20
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 21
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 22
- []\T1/ptm/m/n/10 3
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 23
- []\T1/ptm/m/n/10 4
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 24
- []\T1/ptm/m/n/10 4
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 25
- []\T1/ptm/m/n/10 5
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 26
- []\T1/ptm/m/n/10 7
- []
-
-
-Overfull \hbox (5.0pt too wide) detected at line 27
- []\T1/ptm/m/n/10 7
- []
-
-
-Overfull \hbox (10.0pt too wide) detected at line 28
- []\T1/ptm/m/n/10 14
- []
-
-
-Overfull \hbox (10.0pt too wide) detected at line 29
- []\T1/ptm/m/n/10 14
- []
-
-)
-\tf@tdo=\write5
-\openout5 = `main.tdo'.
-
- 
 AED: lastpage setting LastPage
-[15 <./images/github-mark.pdf>] (./main.aux)
+[14 <./images/github-mark.pdf>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B69AFB8AC05D155D967987291F50DA73;204.
+(rerunfilecheck)             Checksum: B3BABBD37CA544BB8DBFC70914412F47;100.
  ) 
 Here is how much of TeX's memory you used:
- 40241 strings out of 478287
- 828030 string characters out of 5849289
- 1211789 words of memory out of 5000000
- 57308 multiletter control sequences out of 15000+600000
- 561391 words of font info for 407 fonts, out of 8000000 for 9000
+ 39766 strings out of 478287
+ 818484 string characters out of 5849289
+ 1104001 words of memory out of 5000000
+ 56942 multiletter control sequences out of 15000+600000
+ 549955 words of font info for 357 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,94p,3425b,1110s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,94p,3421b,1110s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
@@ -1459,10 +1247,10 @@ share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on main.pdf (15 pages, 4808507 bytes).
+Output written on main.pdf (14 pages, 6520612 bytes).
 PDF statistics:
- 433 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 106048 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 93752 words of extra memory for PDF output out of 106986 (max. 10000000)
 

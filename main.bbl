@@ -58,26 +58,35 @@
   \bibinfo{pages}{723--733}, \doiprefix\url{10.1177/2472555220922817}
   (\bibinfo{year}{2020}).
 
-\bibitem{laporta}
-\bibinfo{author}{La~Porta, C.~A.} \& \bibinfo{author}{Zapperi, S.}
-\newblock \emph{\bibinfo{title}{The physics of cancer}}
-  (\bibinfo{publisher}{Cambridge University Press}, \bibinfo{year}{2017}).
+\bibitem{Brady2019}
+\bibinfo{author}{Brady, R.} \& \bibinfo{author}{Enderling, H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Mathematical models of cancer: When
+  to predict novel therapies, and when not to}}.
+\newblock {\emph{\JournalTitle{Bull Math Biol}}} \bibinfo{pages}{3722--3731},
+  \doiprefix\url{10.1007/s11538-019-00640-x} (\bibinfo{year}{2019}).
 
-\bibitem{bull2022hallmarks}
-\bibinfo{author}{Bull, J.~A.} \& \bibinfo{author}{Byrne, H.~M.}
-\newblock \bibinfo{journal}{\bibinfo{title}{The hallmarks of mathematical
-  oncology}}.
-\newblock {\emph{\JournalTitle{Proceedings of the IEEE}}}
-  \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{523--540}
-  (\bibinfo{year}{2022}).
+\bibitem{barberis2021percolation}
+\bibinfo{author}{Barberis, L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Radial percolation reveals that
+  {{Cancer Stem Cells}} are trapped in the core of colonies}}.
+\newblock {\emph{\JournalTitle{Papers in Physics}}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{130002--130002},
+  \doiprefix\url{10.4279/pip.130002} (\bibinfo{year}{2021}).
 
-\bibitem{Vieira}
-\bibinfo{author}{Vieira~LC, V.~D., Costa~RS}.
-\newblock \bibinfo{journal}{\bibinfo{title}{An overview of mathematical
-  modelling in cancer research}}.
-\newblock {\emph{\JournalTitle{Fractal and Fractional}}}
-  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{595},
-  \doiprefix\url{10.3390/fractalfract7080595} (\bibinfo{year}{2023}).
+\bibitem{Zanoni2020}
+\bibinfo{author}{Zanoni, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Modeling neoplastic disease with
+  spheroids and organoids}}.
+\newblock {\emph{\JournalTitle{J Hematol Oncol}}}
+  \doiprefix\url{10.1186/s13045-020-00931-0} (\bibinfo{year}{2020}).
+
+\bibitem{Rolver2019}
+\bibinfo{author}{Rolver, M.~G.}, \bibinfo{author}{Elingaard-Larsen, L.~O.} \&
+  \bibinfo{author}{Pedersen, S.~F.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Assessing cell viability and death
+  in 3d spheroid cultures of cancer cells}}.
+\newblock {\emph{\JournalTitle{J Vis Exp}}} \doiprefix\url{10.3791/59714}
+  (\bibinfo{year}{2019}).
 
 \bibitem{benitez2019}
 \bibinfo{author}{Ben{\'i}tez, L.}, \bibinfo{author}{Barberis, L.} \&
@@ -149,14 +158,6 @@
   \textbf{\bibinfo{volume}{365C}}, \bibinfo{pages}{420--432},
   \doiprefix\url{10.1016/j.jtbi.2014.10.038} (\bibinfo{year}{2015}).
 
-\bibitem{barberis2021percolation}
-\bibinfo{author}{Barberis, L.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Radial percolation reveals that
-  {{Cancer Stem Cells}} are trapped in the core of colonies}}.
-\newblock {\emph{\JournalTitle{Papers in Physics}}}
-  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{130002--130002},
-  \doiprefix\url{10.4279/pip.130002} (\bibinfo{year}{2021}).
-
 \bibitem{chen2016}
 \bibinfo{author}{Chen, Y.~C.} \emph{et~al.}
 \newblock \bibinfo{journal}{\bibinfo{title}{High-throughput single-cell derived
@@ -189,28 +190,6 @@
 \newblock {\emph{\JournalTitle{Journal of Cancer Research and Clinical
   Oncology}}}  (\bibinfo{year}{2024}).
 
-\bibitem{Brady2019}
-\bibinfo{author}{Brady, R.} \& \bibinfo{author}{Enderling, H.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Mathematical models of cancer: When
-  to predict novel therapies, and when not to}}.
-\newblock {\emph{\JournalTitle{Bull Math Biol}}} \bibinfo{pages}{3722--3731},
-  \doiprefix\url{10.1007/s11538-019-00640-x} (\bibinfo{year}{2019}).
-
-\bibitem{Zanoni2020}
-\bibinfo{author}{Zanoni, M.} \emph{et~al.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Modeling neoplastic disease with
-  spheroids and organoids}}.
-\newblock {\emph{\JournalTitle{J Hematol Oncol}}}
-  \doiprefix\url{10.1186/s13045-020-00931-0} (\bibinfo{year}{2020}).
-
-\bibitem{Rolver2019}
-\bibinfo{author}{Rolver, M.~G.}, \bibinfo{author}{Elingaard-Larsen, L.~O.} \&
-  \bibinfo{author}{Pedersen, S.~F.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Assessing cell viability and death
-  in 3d spheroid cultures of cancer cells}}.
-\newblock {\emph{\JournalTitle{J Vis Exp}}} \doiprefix\url{10.3791/59714}
-  (\bibinfo{year}{2019}).
-
 \bibitem{Stines2013}
 \bibinfo{author}{Stine, R.~R.} \& \bibinfo{author}{Matunis, E.~L.}
 \newblock \bibinfo{journal}{\bibinfo{title}{Stem cell competition: finding
@@ -240,6 +219,14 @@
   \bibinfo{pages}{2262--2278}, \doiprefix\url{10.1002/bit.27356}
   (\bibinfo{year}{2020}).
 
+\bibitem{Rodriguez2018}
+\bibinfo{author}{Rodríguez, C.~E.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Breast cancer stem cells are
+  involved in trastuzumab resistance through the her2 modulation in 3d
+  culture}}.
+\newblock {\emph{\JournalTitle{J Cell Biochem}}} \bibinfo{pages}{1381--1391},
+  \doiprefix\url{10.1002/jcb.26298} (\bibinfo{year}{2018}).
+
 \bibitem{Olive1994}
 \bibinfo{author}{Olive, P.~L.} \& \bibinfo{author}{Durand, R.~E.}
 \newblock \bibinfo{journal}{\bibinfo{title}{Drug and radiation resistance in
@@ -247,6 +234,14 @@
 \newblock {\emph{\JournalTitle{Cancer Metastasis Rev}}}
   \bibinfo{pages}{121--138}, \doiprefix\url{10.1007/BF00689632}
   (\bibinfo{year}{1994}).
+
+\bibitem{scikit-image}
+\bibinfo{author}{van~der Walt, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{scikit-image: image processing in
+  {P}ython}}.
+\newblock {\emph{\JournalTitle{PeerJ}}} \textbf{\bibinfo{volume}{2}},
+  \bibinfo{pages}{e453}, \doiprefix\url{10.7717/peerj.453}
+  (\bibinfo{year}{2014}).
 
 \bibitem{schmidt2018}
 \bibinfo{author}{Schmidt, U.}, \bibinfo{author}{Weigert, M.},
