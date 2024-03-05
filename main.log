@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  5 MAR 2024 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.28)  5 MAR 2024 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1130,10 +1130,10 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 Package epstopdf Info: Source file: <images/network.eps>
-(epstopdf)                    date: 2024-03-05 12:47:02
+(epstopdf)                    date: 2024-03-05 13:12:52
 (epstopdf)                    size: 4692501 bytes
 (epstopdf)             Output file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-03-05 10:03:43
+(epstopdf)                    date: 2024-03-05 10:15:02
 (epstopdf)                    size: 2190730 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/network-eps-convert
 ed-to.pdf images/network.eps>
@@ -1142,7 +1142,7 @@ runsystem(repstopdf --outfile=images/network-eps-converted-to.pdf images/networ
 k.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <images/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-03-05 10:03:49
+(epstopdf)                    date: 2024-03-05 10:15:07
 (epstopdf)                    size: 2190730 bytes.
 <images/network-eps-converted-to.pdf, id=136, 1792.6975pt x 1778.645pt>
 File: images/network-eps-converted-to.pdf Graphic file (type pdf)
@@ -1170,11 +1170,11 @@ Package pdftex.def Info: images/nuclei_processing_horizontal.png  used on input
 (pdftex.def)             Requested size: 500.484pt x 356.22818pt.
 Package epstopdf Info: Source file: <images/tessellation_to_csc_recognition.eps
 >
-(epstopdf)                    date: 2024-03-05 12:47:02
+(epstopdf)                    date: 2024-03-05 13:12:52
 (epstopdf)                    size: 1889125 bytes
 (epstopdf)             Output file: <images/tessellation_to_csc_recognition-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-03-05 10:03:45
+(epstopdf)                    date: 2024-03-05 10:15:03
 (epstopdf)                    size: 777565 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/tessellation_to_csc
 _recognition-eps-converted-to.pdf images/tessellation_to_csc_recognition.eps>
@@ -1185,7 +1185,7 @@ ed).
 
 Package epstopdf Info: Result file: <images/tessellation_to_csc_recognition-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-03-05 10:03:50
+(epstopdf)                    date: 2024-03-05 10:15:08
 (epstopdf)                    size: 777565 bytes.
 <images/tessellation_to_csc_recognition-eps-converted-to.pdf, id=217, 384.43625
 pt x 384.43625pt>
@@ -1247,7 +1247,7 @@ share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on main.pdf (14 pages, 6520612 bytes).
+Output written on main.pdf (14 pages, 6520603 bytes).
 PDF statistics:
  381 PDF objects out of 1000 (max. 8388607)
  291 compressed objects within 3 object streams
