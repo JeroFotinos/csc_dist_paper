@@ -171,7 +171,7 @@ We measured some extra features that allow us to be sure that our findings have 
 
 \begin{figure}[!ht]
         \centering
-        \includegraphics[width=\textwidth]{images/network.eps}
+        \includegraphics[width=\textwidth]{images/network-eps-converted-to.pdf}
     \caption{\emph{Comparison of an experimental network and its stem subgraph, with a copy of it with randomly located CSCs.} {\bf A} The reconstructed network for \textsf{ Sph1, slice 3} with its CSCs plotted as red dots, and its DCCs plotted as blue dots. Neighbor cells are connected with gray links. {\bf B} The CSCs subgraph corresponding to the network in A is obtained by deletion of the DCCs (blue) nodes. The number of stem/connected components is 5. {\bf C} The random graphs are constructed by randomly redistributing the red and blue dots on the same network. {\bf D} The  CSCs subgraph corresponding to the randomized network in C has a different number of connected components, 13 in this case. In most random cases, this number is larger than in the experimental network. }
     \label{fig: Delaunay sph1 slice3}
 \end{figure}
@@ -303,7 +303,7 @@ The complete process on DAPI channel is depicted in Fig. \ref{fig: nuclei proces
 Since the SOX2 marker is not necessarily bound to the nucleus of the cell, but rather to its cytoplasm, we need a way of assigning each point in space (i.e., each pixel) to a single cell to further associate the fluorescence of the marker with a given cell. To do this, we approximated the division of the space associated with each cell by a Voronoi tessellation. We used the centers of the segmented objects filtering out the ones corresponding to cells that do not belong to the spheroid when needed. The result is shown in Fig. \ref{fig: tessellation to clustered}A. It is worth mentioning that we used artificial points, uniformly distributed in a circumference enclosing the spheroid, to limit the area of the cells in its border.
 
 \begin{figure}[!ht]
-   \includegraphics[width=\textwidth]{images/tessellation_to_csc_recognition.eps}
+   \includegraphics[width=\textwidth]{images/tessellation_to_csc_recognition-eps-converted-to.pdf}
    \caption{\emph{From tessellation to CSC recognition.} \textbf{A} Voronoi tessellation. The centroids of the cells, green dots, were used to estimate the cell area. \textbf{B} Regions colored according to SOX2 fluorescence intensity. For each region of the tessellation, the sum of its SOX2 fluorescence intensity is computed. \textbf{C} Tessellation overlaid with nuclei (gray scale) and SOX2 (red palette) channels. The boundaries between Voronoi regions are plotted with gray lines. \textbf{D} Tessellation regions are colored in red for CSCs and blue for DCCs, according to their SOX2 fluorescence content. If the fluorescence surpasses the threshold given by the GMM, the cell is considered a stem one.}
    \label{fig: tessellation to clustered}
 \end{figure}
